@@ -1,25 +1,4 @@
-### Hey Dev! I'm glad that you visited me 😄
-<div align="center">
- <a href="https://github.com/delysilva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=delysilva&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/delysilva">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=delysilva&theme=merko&exclude_days=Sun" />
-</a>
-<br>
- 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
- <br>
-
- <div align="center">
-<a href="https://github.com/delysilva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanatirtha&langs_count=6)" />
-</a>
-<a href="https://github.com/delysilva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha" />
-</a>
- </div> 
-
+## Hey! 
 ### Facts about me:<br>
 👧 He/Him<br>
 💻 Programmer<br>
