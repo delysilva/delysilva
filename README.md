@@ -1,7 +1,7 @@
 ### Hey Dev! I'm glad that you visited me 😄
 <div align="center">
  <a href="https://github.com/delysilva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=delysilva&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/delysilva">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=delysilva&theme=merko&exclude_days=Sun" />
