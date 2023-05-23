@@ -1,3 +1,7 @@
+## 🔥 My stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=delysilva&theme=merko&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+
 ## Hey! 
 ### Facts about me:<br>
 👧 He/Him<br>
