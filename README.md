@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=delysilva&theme=merko&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delysilva&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Hey! 
 ### Facts about me:<br>
 👧 He/Him<br>
