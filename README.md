@@ -13,7 +13,7 @@
 ❤️ Food & Code<br>
 📜 Undergraduate Student<br>
 💬 Grab coffee and let's talk about technology and livestyle<br>
-📝 Favourite Quote : Don't think, just start doing!<br>
+📝 Favourite Quote : The way to get started is to quit talking and begin doing.<br>
 ⚡ Belief : There are only 10 people in the world, those who know binary and those who don't<br>
 📫 Reach me at delydrs1@gmail.com <br>
 
