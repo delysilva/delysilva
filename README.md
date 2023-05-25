@@ -9,11 +9,15 @@
 👧 He/Him<br>
 💻 Programmer<br>
 🔄 Routine : Eat - Sleep - Code - Repeat<br>
+📜 Undergraduate Computer Science Student with a versatile skill set. Looking foward to become a Full-Stack developer.<br>
 😆 Fun fact: Absolute fast learner, always grasping new concepts and languages with ease. <br>
+
 ❤️ Programming & pizza. If there were a way to combine the two, I'd be in coding heaven. But until that day arrives, I'll enjoy balancing my time between writing elegant lines of code and savoring a delicious slice of pizza.<br>
-📜 Undergraduate Computer Science Student with a versatile skill set<br>
+
 💬 If you're looking for someone to geek out with about programming languages, algorithms, or software development, I'm your go-to guy. Also, I'm always up for a conversation about movies, especially indie films that challenge conventional storytelling and ignite thought-provoking discussions.<br>
+
 📝 Favourite Quote : The way to get started is to quit talking and begin doing.<br>
+
 ⚡ Belief : Code is poetry; it's the art of turning logic into reality.<br>
 
 📫 Reach me at delydrs1@gmail.com <br>
