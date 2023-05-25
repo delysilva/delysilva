@@ -9,7 +9,7 @@
 👧 He/Him<br>
 💻 Programmer<br>
 🔄 Routine : Eat - Sleep - Code - Repeat<br>
-📜 Undergraduate Computer Science Student with a versatile skill set. Looking foward to become a Full-Stack developer.<br>
+📜 Undergraduate Computer Science Student with a versatile skill set. Looking forward to become a Full-Stack developer.<br>
 😆 Fun fact: Absolute fast learner, always grasping new concepts and languages with ease. <br>
 
 ❤️ Programming & pizza. If there were a way to combine the two, I'd be in coding heaven. But until that day arrives, I'll enjoy balancing my time between writing elegant lines of code and savoring a delicious slice of pizza.<br>
